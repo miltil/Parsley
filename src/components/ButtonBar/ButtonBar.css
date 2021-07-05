@@ -1,0 +1,11 @@
+.nextButton {
+  position: absolute;
+  right: 20%;
+  bottom: 5%;
+}
+
+.prevButton {
+  position: absolute;
+  left: 20%;
+  bottom: 5%;
+}
